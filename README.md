@@ -10,8 +10,9 @@ A simple ATM program which deposits or withdraws an integer based upon user inpu
 https://jkosai.github.io/atm/
 
 ## Future improvements
--Log In
--Keep amount upon refresh
+Log In
+
+Keep amount upon refresh
 
 
 ## MIT License
